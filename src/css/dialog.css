@@ -57,7 +57,9 @@
   z-index:50001;
   background: var(--z15);
 }
-
+.inverted #dialog_container {
+  background: #f9fafb;
+}
 
 #dialog_container, #dialog_content {
   border-radius: 3px;
